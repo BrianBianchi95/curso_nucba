@@ -1,0 +1,32 @@
+h1 {
+    color: orange;
+}
+
+body {
+    background-color: rgb(189, 247, 162);
+}
+
+/* Selector universal (asterisco) */
+* {
+    border: 1px solid white;
+}
+
+p {
+    background: #f8df27;
+}
+
+/* Selector id (#) */
+#titulo {
+    background: #ef8686;
+    color: white;
+}
+
+/* Selector de clase (.) */
+.p-fondo{
+    background: red;
+    color: blue;
+}
+
+div .titulo-div{
+    background: blue;
+}
